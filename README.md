@@ -1,4 +1,4 @@
-![logo](https://github.com/Anuj-Pradhan235/Anuj-Pradhan235/blob/master/Anuj%20logo%203.png)
+![logo](https://github.com/Anuj-Pradhan235/Anuj-Pradhan235/blob/master/Anuj%20logo%203.png](https://github.com/Anuj-Pradhan235/Anuj-Pradhan235/blob/master/Images/Banner.png)
 <h1 align="center">Hi 👋, I'm Anuj Pradhan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding gif"  width="400"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
