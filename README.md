@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anuj-Pradhan235](https://github.com/Anuj-Pradhan235)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Anuj-Pradhan235)
 
 - 💬 Ask me about **dsa , js , react and c++**
 
 - 📫 How to reach me **pradhananuj235@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bW5C5q3dKTvALQRR1h5khJJpXmG5JdeO/view?usp=drive_link](https://drive.google.com/file/d/1bW5C5q3dKTvALQRR1h5khJJpXmG5JdeO/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bW5C5q3dKTvALQRR1h5khJJpXmG5JdeO/view?usp=drive_link)
 
 - ⚡ Fun fact **My code has more comments than my social life. 😄 #CodingLife"**
 
